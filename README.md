@@ -174,7 +174,7 @@ You need:
 | Full Audit | $750 USDC | Your config reviewed + Monte Carlo calibration for your capital + 30 days Telegram support |
 | Done-for-you | $2,000 USDC | Deployment on your infrastructure + ongoing optimization + revenue share |
 
-**Contact:** [@eicisbot on Telegram](https://t.me/eicisbot)
+**Contact:** [@PJV_Blacktrace on Telegram] or (https://t.me/eicisbot) if you like bots.
 
 ---
 
